@@ -24,6 +24,8 @@ public class MainActivity extends ActionBarActivity
 
 
     //git ch1
+
+    // git ch3
     /**
      * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
      */
