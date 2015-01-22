@@ -22,6 +22,8 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity
         implements NavigationDrawerFragment.NavigationDrawerCallbacks {
 
+
+    //git ch1
     /**
      * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
      */
