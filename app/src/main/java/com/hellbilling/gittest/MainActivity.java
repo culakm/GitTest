@@ -50,7 +50,7 @@ public class MainActivity extends ActionBarActivity
                 R.id.navigation_drawer,
                 (DrawerLayout) findViewById(R.id.drawer_layout));
     }
-
+toto je fatalna kravina
     @Override
     public void onNavigationDrawerItemSelected(int position) {
         // update the main content by replacing fragments
