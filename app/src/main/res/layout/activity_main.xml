@@ -23,4 +23,3 @@
         tools:layout="@layout/fragment_navigation_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
-<!-- mc-develop1 change 1-->
